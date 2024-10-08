@@ -22,11 +22,11 @@ repository               : "stvrts/stvrt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : 'Ching Huan "Theo" Wang'
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Baltimore, MD, USA"
+  employer         : "Johns Hopkins University"
   uri              : # URL
   email            : "none@example.org" 
 
