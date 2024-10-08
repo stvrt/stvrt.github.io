@@ -22,8 +22,8 @@ repository               : "stvrts/stvrt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : 'WANG, Ching-Huan "Theo"<br>(王靖寰)'
-  pronouns         : # example: "she/her"  
+  name             : 'WANG, Ching-Huan "Theo" (王靖寰)'
+  pronouns         : "He/him; pronouns in Chinese languages are gender neutral, though"  
   bio              : "A linguist in disguise as a pharmacist & a data analyst"
   location         : "Baltimore, MD, USA"
   employer         : "Johns Hopkins University"
